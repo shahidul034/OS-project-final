@@ -8,7 +8,6 @@ We should remember that we run our command individually.
 ### install xorriso
 
 ```
-
 sudo apt-get update
 sudo apt-get install xorriso
 
